@@ -1,0 +1,18 @@
+{
+  "name": "fourkitchens/sous_seo",
+  "description": "Base SEO configuration for Drupal.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "Sous", "SEO"],
+  "homepage": "https://github.com/fourkitchens/sous-seo",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Jeff Tomlinson (aether)",
+      "homepage": "https://www.drupal.org/u/aether",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/fourkitchens/sous-seo"
+  }
+}
